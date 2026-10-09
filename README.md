@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vibhubgupta
 - 👀 I’m interested in Programming and Data science
-- 🌱 I’m currently looking for placement opportunities
 - 📫 How to reach me - vibhubg844@gmail.com
 
 <!---
